@@ -1,313 +1,0 @@
-Script started on 2023-02-16 19:14:31+05:30 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="120" LINES="30"]
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ git config --list --show-origin[K[Ksudo apt-get install git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pgit config --list[K[K[K[Kglobal.[K user.name "Varish [Ku Pant"\
-> git config --global user.name "Varishu Pant"\[C[C[Kgit config --global user.name "Varishu Pant"\
-> ad[K==;
-usage: git config [<options>]
-
-Config file location
-    --global              use global config file
-    --system              use system config file
-    --local               use repository config file
-    --worktree            use per-worktree config file
-    -f, --file <file>     use given config file
-    --blob <blob-id>      read config from given blob object
-
-Action
-    --get                 get value: name [value-regex]
-    --get-all             get all values: key [value-regex]
-    --get-regexp          get values for regexp: name-regex [value-regex]
-    --get-urlmatch        get value specific for the URL: section[.var] URL
-    --replace-all         replace all matching variables: name value [value_regex]
-    --add                 add a new variable: name value
-    --unset               remove a variable: name [value-regex]
-    --unset-all           remove all matches: name [value-regex]
-    --rename-section      rename section: old-name new-name
-    --remove-section      remove a section: name
-    -l, --list            list all
-    -e, --edit            open an editor
-    --get-color           find the color configured: slot [default]
-    --get-colorbool       find the color setting: slot [stdout-is-tty]
-
-Type
-    -t, --type <>         value is given this type
-    --bool                value is "true" or "false"
-    --int                 value is decimal number
-    --bool-or-int         value is --bool or --int
-    --path                value is a path (file or directory name)
-    --expiry-date         value is an expiry date
-
-Other
-    -z, --null            terminate values with NUL byte
-    --name-only           show variable names only
-    --includes            respect include directives on lookup
-    --show-origin         show origin of config (file, standard input, blob, command line)
-    --default <value>     with --get, use default value when missing entry
-
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ ?[Kexit
-exit
-
-Script done on 2023-02-16 19:15:09+05:30 [COMMAND_EXIT_CODE="129"]
-Script started on 2023-02-16 19:15:12+05:30 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="120" LINES="30"]
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ exitgit config --global user.name "Varishu Pant"git config --global user.name "Varishu Pant"a==;[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ git config --global user.name "Varishu Pant"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kgit config --global user.name "Varishu Pant"git config --global user.name "Varishu Pant"a==;[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clist --show-origin[Kglobal user.name "Varishu Pant"git config --global user.name "Varishu Pant"a==;[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kgit config --global user.name "Varishu Pant"git config --global user.name "Varishu Pant"a==;[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[1P[1P[1P[1P[1@e[1@m[1@a[1@i[1@l[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pt[C[K[K[K[K[K[K[K[K[K[K[Kvarishu.pant@tigeranalytics.com"
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ git config --global user.email "varishu.pant@tigeranalytics.com"[20Pname "Varishu Pant"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kgit config --global user.name "Varishu Pant"git config --global user.name "Varishu Pant"a==;[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kgit config --global user.name "Varishu Pant"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kgit config --global user.name "Varishu Pant"git config --global user.name "Varishu Pant"a==;[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clist --show-origin[K[K[Ksudo apt-get install git [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pgit config --list --show-originglobal user.name "Varishu Pant"git config --global user.name "Varishu Pant"a==;[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kgit config --global user.name "Varishu Pant"email "varishu.pant@tigeranalytics.com"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgit config --global user.email "varishu.pant@tigeranalytics.com"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[C[1P "[1P "[1P "[1P "[1P "[1P "[1P "[1P "[1P "[1P "c "o "d "e ". "e "d "i "t "[1P "[1P "[1P "[1P "[1P "[1P "[1P "[1P "o "r "e ". "e "d "i "t "o "r "[C[Ccode --wait"
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ git config --global core.editor "code --wait"[C[C[C[C[C[1@ [1@-[1@e[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
-hint: Waiting for your editor to close the file... [K]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ git config --global -e [K[K[Kcore.autocrif[K[Klf [K[Kf true
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ git config --global core.autocrlf true[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Khelp
-[?1049h[22;0;0t[?1h=GIT-CONFIG(1)                                         Git Manual                                        GIT-CONFIG(1)[m
-[m
-[1mNAME[0m[m
-       git-config - Get and set repository or global options[m
-[m
-[1mSYNOPSIS[0m[m
-       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [-z|--null] name [value [value_regex]][m
-       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] --add name value[m
-       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] --replace-all name value [value_regex][m
-       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [-z|--null] --get name [value_regex][m
-       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [-z|--null] --get-all name [value_regex][m
-       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [-z|--null] [--name-only] --get-regexp name_regex [val[m ue_regex][m
-       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [-z|--null] --get-urlmatch name URL[m
-       [4mgit[24m [4mconfig[24m [<file-option>] --unset name [value_regex][m
-       [4mgit[24m [4mconfig[24m [<file-option>] --unset-all name [value_regex][m
-       [4mgit[24m [4mconfig[24m [<file-option>] --rename-section old_name new_name[m
-       [4mgit[24m [4mconfig[24m [<file-option>] --remove-section name[m
-       [4mgit[24m [4mconfig[24m [<file-option>] [--show-origin] [-z|--null] [--name-only] -l | --list[m
-       [4mgit[24m [4mconfig[24m [<file-option>] --get-color name [default][m
-       [4mgit[24m [4mconfig[24m [<file-option>] --get-colorbool name [stdout-is-tty][m
-       [4mgit[24m [4mconfig[24m [<file-option>] -e | --edit[m
-[m
-[1mDESCRIPTION[0m[m
-       You can query/set/replace/unset options with this command. The name is actually the section and the key[m
-       separated by a dot, and the value will be escaped.[m
-[m
-       Multiple lines can be added to an option by using the [1m--add[0m option. If you want to update or unset an option[m
-       which can occur on multiple lines, a POSIX regexp [1mvalue_regex[0m needs to be given. Only the existing values that[m
-[7m Manual page git-config(1) line 1 (press h for help or q to quit)[27m[K[K       match the regexp are updated or unset. If you want to handle the lines that do [1mnot[0m match the regex, just[m
-       prepend a single exclamation mark in front (see also the section called “EXAMPLES”).[m
-[m
-       The [1m--type=<type>[0m option instructs [4mgit[24m [4mconfig[24m to ensure that incoming and outgoing values are[m
-       canonicalize-able under the given <type>. If no [1m--type=<type>[0m is given, no canonicalization will be performed.[m
-       Callers may unset an existing [1m--type[0m specifier with [1m--no-type[0m.[m
-[m
-       When reading, the values are read from the system, global and repository local configuration files by default,[m
-       and options [1m--system[0m, [1m--global[0m, [1m--local[0m, [1m--worktree[0m and [1m--file[0m [1m<filename>[0m can be used to tell the command to[m
-       read from only that location (see the section called “FILES”).[m
-[m
-       When writing, the new value is written to the repository local configuration file by default, and options[m
-       [1m--system[0m, [1m--global[0m, [1m--worktree[0m, [1m--file[0m [1m<filename>[0m can be used to tell the command to write to that location[m
-       (you can say [1m--local[0m but that is the default).[m
-[m
-       This command will fail with non-zero status upon error. Some exit codes are:[m
-[m
-       •   The section or key is invalid (ret=1),[m
-[m
-       •   no section or name was provided (ret=2),[m
-[m
-       •   the config file is invalid (ret=3),[m
-[m
-       •   the config file cannot be written (ret=4),[m
-[m
-       •   you try to unset an option which does not exist (ret=5),[m
-[m
-       •   you try to unset/set an option for which multiple lines match (ret=5), or[m
-[m
-[7m Manual page git-config(1) line 29 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ ^Z[Kgit config --list
-[?1h=user.name=Varishu Pant[m
-user.email=varishu.pant@tigeranalytics.com[m
-core.editor=code --wait[m
-core.autocrlf=true[m
-[K[?1l>]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ git init
-Initialized empty Git repository in /home/varishu/.git/
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ ls
-Made_Txt.txt  [0m[01;34mcubane-40[0m  [01;34methane-30[0m  head    learning_git  [01;34mmethane-40[0m       [01;34mnew_dir[0m
-[01;34mcubane-25[0m     [01;34mcubane-50[0m  [01;34methane-40[0m  hi      [01;34mmethane-25[0m    [01;34mmethane-50[0m       sort
-[01;34mcubane-30[0m     [01;34methane-25[0m  [01;34methane-50[0m  hi.txt  [01;34mmethane-30[0m    my_unix_session  [01;34msub_dir[0m
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ ls -a
-[0m[01;34m.[0m              .bashrc     .motd_shown                [01;34mcubane-25[0m  [01;34methane-25[0m  head          [01;34mmethane-25[0m  my_unix_session
-[01;34m..[0m             [01;34m.git[0m        .profile                   [01;34mcubane-30[0m  [01;34methane-30[0m  hi            [01;34mmethane-30[0m  [01;34mnew_dir[0m
-.bash_history  .gitconfig  .sudo_as_admin_successful  [01;34mcubane-40[0m  [01;34methane-40[0m  hi.txt        [01;34mmethane-40[0m  sort
-.bash_logout   [01;34m.landscape[0m  Made_Txt.txt               [01;34mcubane-50[0m  [01;34methane-50[0m  learning_git  [01;34mmethane-50[0m  [01;34msub_dir[0m
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ open .git
-
-Command 'open' not found, did you mean:
-
-  command 'wopen' from deb gworkspace.app (0.9.4-2)
-  command 'pen' from deb pen (0.34.1-1build1)
-  command 'gopen' from deb gnustep-gui-runtime (0.27.0-5build2)
-
-Try: sudo apt install <deb name>
-
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ open .git[1@w
-
-Command 'wopen' not found, but can be installed with:
-
-sudo apt install gworkspace.app
-
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ sudi [K[K[Kdo apt install gworkspace.app
-[sudo] password for varishu: 
-Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
-Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
-Reading state information... 0%Reading state information... 0%Reading state information... Done
-[1;31mE: [0mUnable to locate package gworkspace.app[0m
-[1;31mE: [0mCouldn't find any package by glob 'gworkspace.app'[0m
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ echo hello > file1.txt
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ echo hello > file1.txt[1P.txt2.txt
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ git status
-On branch master
-
-No commits yet
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31m.bash_history[m
-	[31m.bash_logout[m
-	[31m.bashrc[m
-	[31m.gitconfig[m
-	[31m.landscape/[m
-	[31m.motd_shown[m
-	[31m.profile[m
-	[31m.sudo_as_admin_successful[m
-	[31mMade_Txt.txt[m
-	[31mfile1.txt[m
-	[31mfile2.txt[m
-	[31mhead[m
-	[31mhi[m
-	[31mhi.txt[m
-	[31mlearning_git[m
-	[31mmy_unix_session[m
-	[31msort[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ git add file1.txt file2.txt
-warning: LF will be replaced by CRLF in file1.txt.
-The file will have its original line endings in your working directory
-warning: LF will be replaced by CRLF in file2.txt.
-The file will have its original line endings in your working directory
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ git add file1.txt file2.txt[Kstatus[K
-On branch master
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	[32mnew file:   file1.txt[m
-	[32mnew file:   file2.txt[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31m.bash_history[m
-	[31m.bash_logout[m
-	[31m.bashrc[m
-	[31m.gitconfig[m
-	[31m.landscape/[m
-	[31m.motd_shown[m
-	[31m.profile[m
-	[31m.sudo_as_admin_successful[m
-	[31mMade_Txt.txt[m
-	[31mhead[m
-	[31mhi[m
-	[31mhi.txt[m
-	[31mlearning_git[m
-	[31mmy_unix_session[m
-	[31msort[m
-
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ ec[K[Kgit statusadd file1.txt file2.txstatus[Kecho hello > file2.txt[C[1P[1P[1P[1P[1P[1@w[1@o[1@r[1@l[1@d[C[C[C> file2.txt[C[C[C[C[C[C[1P.txt1.txt
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ echo world >> file1.txt[13Pgit status
-On branch master
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	[32mnew file:   file1.txt[m
-	[32mnew file:   file2.txt[m
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	[31mmodified:   file1.txt[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31m.bash_history[m
-	[31m.bash_logout[m
-	[31m.bashrc[m
-	[31m.gitconfig[m
-	[31m.landscape/[m
-	[31m.motd_shown[m
-	[31m.profile[m
-	[31m.sudo_as_admin_successful[m
-	[31mMade_Txt.txt[m
-	[31mhead[m
-	[31mhi[m
-	[31mhi.txt[m
-	[31mlearning_git[m
-	[31mmy_unix_session[m
-	[31msort[m
-
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ git statusecho world >> file1.txt[13Pgit statusadd file1.txt file2.tx\[K[K[K[K[K[K[K[K[K[K
-warning: LF will be replaced by CRLF in file1.txt.
-The file will have its original line endings in your working directory
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ git add file1.txt[7Pstatus
-On branch master
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	[32mnew file:   file1.txt[m
-	[32mnew file:   file2.txt[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31m.bash_history[m
-	[31m.bash_logout[m
-	[31m.bashrc[m
-	[31m.gitconfig[m
-	[31m.landscape/[m
-	[31m.motd_shown[m
-	[31m.profile[m
-	[31m.sudo_as_admin_successful[m
-	[31mMade_Txt.txt[m
-	[31mhead[m
-	[31mhi[m
-	[31mhi.txt[m
-	[31mlearning_git[m
-	[31mmy_unix_session[m
-	[31msort[m
-
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ git commit -m "Initial commit."[1P"
-[master (root-commit) 46b8852] Initial commit
- 2 files changed, 3 insertions(+)
- create mode 100644 file1.txt
- create mode 100644 file2.txt
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ git commit -m "Initial commit"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgit commit -m "Initial commit"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
-On branch master
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31m.bash_history[m
-	[31m.bash_logout[m
-	[31m.bashrc[m
-	[31m.gitconfig[m
-	[31m.landscape/[m
-	[31m.motd_shown[m
-	[31m.profile[m
-	[31m.sudo_as_admin_successful[m
-	[31mMade_Txt.txt[m
-	[31mhead[m
-	[31mhi[m
-	[31mhi.txt[m
-	[31mlearning_git[m
-	[31mmy_unix_session[m
-	[31msort[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ i[Kgit add i[Khi.[K[K[K[K my_in[K[Kunix_session
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ git add my_unix_sessioncommit[K
-hint: Waiting for your editor to close the file... [K[master 7402943] Describing what this repo is for
- 1 file changed, 361 insertions(+)
- create mode 100644 my_unix_session
-]0;varishu@TIGER01951: ~[01;32mvarishu@TIGER01951[00m:[01;34m~[00m$ exit
-exit
-
-Script done on 2023-02-16 21:58:45+05:30 [COMMAND_EXIT_CODE="0"]
